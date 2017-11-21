@@ -20,7 +20,7 @@ $translations = array(
 	'%s version: %s through PHP extension %s' => '%s versija: %s per PHP plėtinį %s',
 	'Refresh' => 'Atnaujinti',
 
-	// text direction - 'ltr' or 'rtl'
+
 	'ltr' => 'ltr',
 
 	'Privileges' => 'Privilegijos',
