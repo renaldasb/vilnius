@@ -1,4 +1,8 @@
 <?php
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5d50926df94ad348f5a48f7e167087ed29f045dc
 
 include "./include/bootstrap.inc.php";
 include "./include/tmpfile.inc.php";
